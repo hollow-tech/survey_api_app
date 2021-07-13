@@ -20,7 +20,7 @@
     https://github.com/Speccy-Rom/Api_system_of_user_surveys.git
 Перейти в папку:
 ```bash
-cd Api_system_of_user_surveys
+cd survey_api
 ```
 Создать и активировать виртуальное окружение Python.
 
