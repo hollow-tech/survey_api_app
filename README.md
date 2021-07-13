@@ -17,7 +17,7 @@
 
 Склонируйте репозиторий с помощью git
 
-    https://github.com/Speccy-Rom/Api_system_of_user_surveys.git
+    https://github.com/hollow-tech/survey_api_app.git
 Перейти в папку:
 ```bash
 cd survey_api
